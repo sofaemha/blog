@@ -1,0 +1,38 @@
+baseURL:
+title: Sofa eMHa
+theme: blog
+defaultContentLanguage : id
+languageCode: id
+disablePathToLower: true
+enableGitInfo: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+languages:
+  id:
+    languageName: Indonesian
+    contentDir: content
+    weight: 1
+
+menu:
+  after:
+    - name: "Github"
+      url: "https://github.com/alex-shpak/hugo-book"
+      weight: 1
+    - name: "Hugo Themes"
+      url: "https://themes.gohugo.io/hugo-book/"
+      weight: 2
+
+params:
+  BookTheme: "dark"
+  BookToC: true
+  BookSection: docs
+  BookRepo: https://github.com/sofaemha/blog
+  BookDateFormat: "January 2, 2002"
+  BookSearch: true
+  BookComments: true

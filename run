@@ -1,0 +1,59 @@
+#!/bin/bash
+
+while getopts '?dnh:' OPTION; do
+  case "$OPTION" in
+    h)
+      clear
+      value="$OPTARG"
+      case $value in
+        n)
+          path="${@: -2}"
+          src="${path// //}"
+          hugo new content/$src.md
+          ;;
+        S-wd)
+          hugo server -w -D; exit 0
+          ;;
+        S-w)
+          hugo server -w; exit 0
+          ;;
+        S-d)
+          hugo server -D; exit 0
+          ;;
+        S)
+          hugo server; exit 0
+          ;;
+        *)
+          echo "error: argument not found"
+          ;;
+      esac
+      exit 0
+      ;;
+    d)
+      clear
+      echo -e "\033[0;32mDeploying to GitHub...\033[0m"
+      echo "Enter commit message :"  
+      read msg
+      d=`date '+%FT%T.%3N+0700Z'`
+      git add -A
+      if [ -z "$msg" ]
+      then
+        git commit -m "[$d]"
+      else
+        git commit -m "[$d]: $msg"
+      fi
+      git push -u origin main
+      exit 0
+      ;;
+    ?)
+      echo -e "[-d] \t\t Upload this project into github repository" >&2
+      echo -e "[-h argument] \t Run hugo command with a simple steps" >&2
+      exit 0
+      ;;
+    *)
+      echo "usage: [-d] [-h argument]" >&2
+      exit 1
+      ;;
+  esac
+done
+shift "$(($OPTIND -1))"
