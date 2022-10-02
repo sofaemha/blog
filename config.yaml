@@ -1,6 +1,6 @@
 baseURL:
 title: Sofa eMHa
-theme: blog
+theme: docs
 defaultContentLanguage : id
 languageCode: id
 disablePathToLower: true
