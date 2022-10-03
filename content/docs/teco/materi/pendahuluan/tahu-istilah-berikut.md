@@ -1,9 +1,5 @@
 ---
 title: "Tahu Istilah Berikut?"
-date: 2022-08-19T23:32:10+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori"]
-summary: "Sudah tahu beberapa istilah seputar dunia website berikut?"
 weight: 5
 ---
 

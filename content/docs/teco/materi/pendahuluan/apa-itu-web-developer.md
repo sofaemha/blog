@@ -1,9 +1,5 @@
 ---
 title: "Apa Itu Web Developer?"
-date: 2022-08-19T23:08:18+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori", "web developer", "front-end", "back-end", "full stack", "devops"]
-summary: "Web Developer adalah Pengembang Web yang bekerja untuk merancang, membuat, serta memelihara situs web dan aplikasi web. Jadi bisa diartikan pengembang web adalah seseorang yang berhubungan dengan pembuatan suatu website."
 weight: 3
 ---
 
@@ -37,7 +33,7 @@ Pengembang situs yang bertugas membuat sisi luar dan dalam website serta mengatu
 
 ---
 
-{{< figure align=center src="/website/assets/materi-teco/roadmap/Devops.png" title="https://roadmap.sh/devops" width="35%">}}
+{{< figure align=center src="/assets/materi-teco/roadmap/Devops.png" title="https://roadmap.sh/devops" width="35%">}}
 
 ---
 

@@ -1,9 +1,5 @@
 ---
 title: "Apa Sih Perbedaannya?"
-date: 2022-08-19T23:22:07+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori", "web developer", "web designer"]
-summary: "Setelah mengetahui lebih dalam tentang Web Designer dan Web Developer, sekarang mari cari tahu perbedaan keduanya."
 weight: 4
 ---
 

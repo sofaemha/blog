@@ -1,9 +1,5 @@
 ---
 title: "Apa Itu Website?"
-date: 2022-08-19T21:55:56+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori"]
-summary: "Mengutip dari Buku Web Programing, website merupakan kumpulan halaman digital yang berisi informas berupa teks, animasi, gambar, suara dan video atau gabungan dari semuanya yang terkoneksi oleh internet, sehingga dapat dilihat oleh seluruh siapapun yang terkoneksi jaringan internet."
 weight: 1
 ---
 

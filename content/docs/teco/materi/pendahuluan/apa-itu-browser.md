@@ -1,9 +1,5 @@
 ---
 title: "Apa Itu Browser?"
-date: 2022-08-19T23:54:25+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori"]
-summary: "Browser merupakan aplikasi yang digunakan untuk mengakses dan menampilkan halaman website atau konten lainnya melalui Graphical User Interface (GUI). Browser disebut juga dengan peramban. Dengan menggunakan browser, mempermudah developer untuk menampilkan hasil eksekusi eksekusi kodenya."
 weight: 6
 ---
 

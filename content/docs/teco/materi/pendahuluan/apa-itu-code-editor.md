@@ -1,9 +1,5 @@
 ---
 title: "Apa Itu Code Editor?"
-date: 2022-08-20T00:01:13+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori"]
-summary: "Code editor adalah aplikasi perangkat lunak yang berfungsi seperti text editor, namun memiliki fitur khusus yakni dapat memvisualisasikan kode yang sudah dibuat pada file atau projek."
 weight: 7
 ---
 

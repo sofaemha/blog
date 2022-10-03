@@ -1,5 +1,5 @@
 baseURL:
-title: Sofa eMHa
+title: Dokumentasi
 theme: docs
 defaultContentLanguage : id
 languageCode: id
@@ -7,6 +7,8 @@ disablePathToLower: true
 enableGitInfo: true
 
 markup:
+  highlight:
+    style: dracula
   goldmark:
     renderer:
       unsafe: true
@@ -21,18 +23,22 @@ languages:
 
 menu:
   after:
-    - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+    - name: GitHub
+      url: https://github.com/sofaemha/
       weight: 1
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
+    - name: License
+      url: /license/
       weight: 2
 
 params:
   BookTheme: "dark"
   BookToC: true
   BookSection: docs
-  BookRepo: https://github.com/sofaemha/blog
-  BookDateFormat: "January 2, 2002"
+  BookRepo: https://github.com/sofaemha/docs
+  BookCommitPath: commit
+  BookEditPath: edit/main
   BookSearch: true
-  BookComments: true
+  BookComments: false
+
+permalinks:
+  posts: /posts/:year/:month/:day/:title/

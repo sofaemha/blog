@@ -1,9 +1,5 @@
 ---
 title: "Apa Itu Web Designer?"
-date: 2022-08-19T22:18:20+07:00
-kategori: "[TECO] Materi: Pendahuluan"
-tags: ["teori", "web designer"]
-summary: "Web Designer atau perancang web adalah profesi yang dijalankan oleh seseorang yang pekerjaannya membuat desain atau rancangan sebuah website. Desain tersebut nantinya dapat dilihat dan dinikmati pada sebuah layar baik melalui monitor komputer, handphone, tablet, ataupun perangkat sejenis."
 weight: 2
 ---
 
@@ -15,7 +11,7 @@ Seorang perancang web mulai bekerja membuat desain begitu dapat permintaan dari 
 
 ---
 
-{{< figure align=center src="/website/assets/materi-teco/pendahuluan/WWW1991.png" title="http://info.cern.ch/hypertext/WWW/TheProject.html" width="35%">}}
+{{< figure align=center src="/assets/materi-teco/pendahuluan/WWW1991.png" title="http://info.cern.ch/hypertext/WWW/TheProject.html" width="35%">}}
 
 ---
 
