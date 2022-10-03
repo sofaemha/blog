@@ -31,7 +31,6 @@ Berdasarkan penilaia juri, proyek ini berada pada urutan ke 71 dari 176 peserta 
 {{< figure align=center src="/docs/assets/img/project/iotgatsu-login.jpeg" title="Login" >}}
 {{< figure align=center src="/docs/assets/img/project/iotgatsu.jpeg" title="Dashboard" >}}
 
-
 ### Perbandingan Nilai [^penilaian-akhir] {#perbandingan-nilai}
 
 #### Lima urutan teratas

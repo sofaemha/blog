@@ -1,4 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
 weight: 
+bookFlatSection: true
+bookCollapseSection: true
+title: "{{ replace .Name "-" " " | title }}"
 ---
