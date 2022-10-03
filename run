@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while getopts '?dnh:' OPTION; do
+while getopts '?dh:' OPTION; do
   case "$OPTION" in
     h)
       clear
