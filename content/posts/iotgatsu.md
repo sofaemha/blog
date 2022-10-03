@@ -18,18 +18,18 @@ Berdasarkan penilaia juri, proyek ini berada pada urutan ke 71 dari 176 peserta 
 3. Sofa Machabba Haeta (Programmer Website)
 
 ### Repositori
-[Internet of Things Gatot Subroto](https://github.com/sofa-emha/iot-gatsu) [^repository]
+[Internet of Things Gatot Subroto](https://github.com/sofaemha/iot-gatsu) [^repository]
 
-[Download Releases Latest (4.6.0+15)](https://github.com/sofa-emha/iot-gatsu/tree/refs/tags/4.6.0%2B15)
+[Download Releases Latest (4.6.0+15)](https://github.com/sofaemha/iot-gatsu/tree/refs/tags/4.6.0%2B15)
 
-[Other Releases](https://github.com/sofa-emha/iot-gatsu/releases)
+[Other Releases](https://github.com/sofaemha/iot-gatsu/releases)
 
 ### Demonstrasi
 {{< youtube FczcdOosgEM >}}
 
 ### Dokumentasi
-{{< figure align=center src="/assets/img/project/iotgatsu-login.jpeg" title="Login" >}}
-{{< figure align=center src="/assets/img/project/iotgatsu.jpeg" title="Dashboard" >}}
+{{< figure align=center src="/docs/assets/img/project/iotgatsu-login.jpeg" title="Login" >}}
+{{< figure align=center src="/docs/assets/img/project/iotgatsu.jpeg" title="Dashboard" >}}
 
 
 ### Perbandingan Nilai [^penilaian-akhir] {#perbandingan-nilai}
